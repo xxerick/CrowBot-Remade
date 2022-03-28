@@ -26,7 +26,9 @@ node index.js
 ```
 
 ```If you have problems with the modules use this:```
+
 https://www.mediafire.com/file/zp4ufnx828n5oox/node_modules.zip/file
+move it to Crowbot-Remade and unzipp it
 
 # Credits
 ```
