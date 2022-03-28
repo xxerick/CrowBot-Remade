@@ -16,7 +16,7 @@
     "discord-backup": "^2.5.0",
     "discord-buttons": "^4.0.0",
     "discord-logs": "^2.0.1",
-    "discord.js": "^13.5.3",
+    "discord.js": "^12.5.3",
     "discord.js.old": "^11.6.5",
     "ffmpeg": "0.0.4",
     "ffmpeg-static": "^4.4.0",
