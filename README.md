@@ -32,4 +32,5 @@ github.com/whoisbaby
 
 ### Contribution;
 ###### All contributions are accepted, just open an issue / pull request and i will get back to you as soon as i can.
+###### If you want to help me you can just star the repo and fork it.
  
