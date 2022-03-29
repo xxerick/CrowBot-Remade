@@ -11,6 +11,10 @@
     	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
 </p>
 	
+# INFO
+```
+discord-buttons no longer work!
+```
 
 # Setup
 	
