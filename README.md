@@ -37,7 +37,9 @@ move it to Crowbot-Remade and unzipp it
 
 # Credits
 ```
-github.com/whoisbaby
+Made by Wassim
+Leak by github.com/whoisbaby
+
 ```
 
 ### Contribution;
