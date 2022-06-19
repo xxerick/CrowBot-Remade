@@ -14,6 +14,7 @@
 # INFO
 ```
 discord-buttons no longer work!
+use discord-buttons-fixed
 ```
 
 # Setup
