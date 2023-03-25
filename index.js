@@ -40,7 +40,7 @@ const loadCommands = (dir = "./commands/") => {
       for (const file of commands) {
         const getFileName = require(`${dir}/${dirs}/${file}`);
         client.commands.set(getFileName.name, getFileName);
-     console.log(`> commande charger ${getFileName.name} [${dirs}]`)
+     console.log(`> Commande charger ${getFileName.name} [${dirs}]`)
   };
     });
   };
@@ -52,7 +52,7 @@ const loadCommands = (dir = "./commands/") => {
         const evt = require(`${dir}/${dirs}/${event}`);
         const evtName = event.split(".")[0];
         client.on(evtName, evt.bind(null, client));
-        console.log(`> event charger ${evtName}`)
+        console.log(`> Event charger ${evtName}`)
       };
     });
   };
